@@ -7,9 +7,13 @@ $$
 \frac{d X_j}  {d t}=\left(X_{j+1}-X_{j-2}\right) X_{j-1}-X_j+F
 $$
 
-## Animation
+To go from this:
 
-<img src="notebooks/gifs/lorenz96_1d.gif" alt="Lorenz 96 Animation" width="500"/>
+<img src="notebooks/gifs/lorenz96_1d.gif" alt="Lorenz 96" width="500"/>
+
+To this:
+
+<img src="notebooks/gifs/lorenz96_EnKF.gif" alt="Lorenz 96 EnKF" width="500"/>
 
 ![Lorenz 96 Animation](notebooks/gifs/lorenz96_1d.gif)
 
