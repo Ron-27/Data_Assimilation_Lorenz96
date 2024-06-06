@@ -13,6 +13,8 @@ $$
 
 ## Animation
 
+<img src="notebooks/gifs/lorenz96_1d.gif" alt="Lorenz 96 Animation" width="500"/>
+
 ![Lorenz 96 Animation](notebooks/gifs/lorenz96_1d.gif)
 
 
