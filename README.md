@@ -1,11 +1,7 @@
 # Data Assimilation with Lorenz 96
 
-## Description
-This project demonstrates data assimilation using the Lorenz 96 model. The Lorenz 96 model is a dynamical system used in atmospheric science and weather forecasting.
-
-## Lorenz 96 Model Equation
-
-Here is the Lorenz 96 model equation:
+## Overview
+In this project we are performing data assimilation to the 1-dimensional form of the Lorenz 96 system:
 
 $$
 \frac{d X_j}  {d t}=\left(X_{j+1}-X_{j-2}\right) X_{j-1}-X_j+F
