@@ -7,13 +7,13 @@ $$
 \frac{d X_j}  {d t}=\left(X_{j+1}-X_{j-2}\right) X_{j-1}-X_j+F
 $$
 
-To go from this:
+Which is our chaotic model:
 
 <p align="center">
     <img src="notebooks/gifs/lorenz96_1d.gif" alt="Lorenz 96" width="500"/>
 </p>
 
-To this:
+And by simulating observations with errors (black stars), we use Ensemble Kalman Filter methods to make predictions (blue lines):
 
 <p align="center">
     <img src="notebooks/gifs/lorenz96_EnKF.gif" alt="Lorenz 96 EnKF" width="500"/>
