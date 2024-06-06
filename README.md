@@ -29,10 +29,3 @@ And by simulating observations with errors (black stars), we use Ensemble Kalman
 [^2]: Raanes, Patrick N., Marc Bocquet, and Alberto Carrassi. "Adaptive covariance inflation in the ensemble Kalman filter by Gaussian scale mixtures." Quarterly Journal of the Royal Meteorological Society 145.718 (2019): 53-75. [https://doi.org/10.1002/qj.3386](https://doi.org/10.1002/qj.3386)
 
 
-
-
-![Lorenz 96 Animation](notebooks/gifs/lorenz96_1d.gif)
-
-
-![Lorenz 96 Animation](notebooks/gifs/lorenz96_EnKF.gif)
-
