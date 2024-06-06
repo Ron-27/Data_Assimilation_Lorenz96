@@ -9,9 +9,9 @@ $$
 
 To go from this:
 
-<div style="text-align: center;">
+<p align="center">
     <img src="notebooks/gifs/lorenz96_1d.gif" alt="Lorenz 96" width="500"/>
-</div>
+</p>
 
 To this:
 
