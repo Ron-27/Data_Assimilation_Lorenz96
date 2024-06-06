@@ -19,7 +19,7 @@ And by simulating observations with errors (black stars), we use Ensemble Kalman
     <img src="notebooks/gifs/lorenz96_EnKF.gif" alt="Lorenz 96 EnKF" width="500"/>
 </p>
 
-*Note:* We will do better than this, but you'll have to look at the project to find out how.
+**Note:** We will do better than this, but you'll have to look at the project to find out how.
 
 
 ## References
