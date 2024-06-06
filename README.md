@@ -15,9 +15,12 @@ To go from this:
 
 To this:
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <img src="notebooks/gifs/lorenz96_EnKF.gif" alt="Lorenz 96 EnKF" width="500"/>
-</div>
+</p>
+
+
+
 
 ![Lorenz 96 Animation](notebooks/gifs/lorenz96_1d.gif)
 
