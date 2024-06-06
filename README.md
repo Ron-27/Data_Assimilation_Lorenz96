@@ -15,7 +15,7 @@ To go from this:
 
 To this:
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="notebooks/gifs/lorenz96_EnKF.gif" alt="Lorenz 96 EnKF" width="500"/>
 </div>
 
