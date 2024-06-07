@@ -1,0 +1,8 @@
+# Python version: 3.11
+# virtual env: conda create -n st_lorenz python=3.11
+streamlit
+numpy
+matplotlib
+pandas
+mplcyberpunk
+plotly
