@@ -4,5 +4,5 @@ streamlit
 numpy
 matplotlib
 pandas
-mplcyberpunk
+tqdm
 plotly
