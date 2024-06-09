@@ -21,6 +21,30 @@ And by simulating observations with errors (black stars), we use Ensemble Kalman
 
 **Note:** We will do better than this with some tweaks[^3], but you'll have to look at the project to find out how.
 
+## How to Explore 
+
+### Option 1
+
+Clone the repo and explore the Jupyter notebooks in the notebooks folder.
+
+### Option 2
+If you want a fancy Streamlit app that enables you to easily configure the number of ensembles and inflation factor and produce animation like this:
+
+<p align="center">
+    <img src="notebooks/gifs/EnKF_streamlit.gif" alt="Lorenz 96 EnKF" width="500"/>
+</p>
+
+Then clone the repo, open your terminal, navigate to the directory of the repo and execute:
+```console
+pip install -r requirements.txt
+```
+And then:
+```console
+streamlit run streamlit_app.py
+```
+
+
+
 
 ## References
 
